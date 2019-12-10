@@ -1,0 +1,12 @@
+public class hitungmundur {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        for(int y=5; y >= 1; y--){
+            System.out.print( y + " " );
+        }
+    }
+    
+}
